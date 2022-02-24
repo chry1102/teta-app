@@ -1,7 +1,7 @@
   workflows:
     ios-sign:
       name: Signing iOS
-      working_directory: myapp
+//      working_directory: myapp
       environment:
         groups:
           - ios
